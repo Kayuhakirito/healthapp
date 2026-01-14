@@ -1,17 +1,35 @@
-# health_app
+HEALTH APP
+Dự án Flutter cho ứng dụng quản lý sức khỏe cá nhân.
 
-Ứng dụng theo dõi sức khỏe cá nhân
+Thông tin sinh viên
+Họ và tên: Nguyễn Minh Trí
 
-## Getting Started
+Mã số sinh viên: 1050080162
 
-This project is a starting point for a Flutter application.
+Lớp: THMT2
 
-A few resources to get you started if this is your first Flutter project:
+Chức năng chính
+Theo dõi chỉ số BMI và cân nặng.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Quản lý lịch trình tập luyện.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lưu trữ thông tin sức khỏe người dùng.
+
+Công nghệ sử dụng
+Framework: Flutter
+
+Ngôn ngữ: Dart
+
+Quản lý trạng thái: [Provider / Bloc / GetX]
+
+Cơ sở dữ liệu: mongodb và hive 
+
+Hướng dẫn chạy ứng dụng
+Tải mã nguồn từ GitHub : https://github.com/Kayuhakirito/healthapp
+
+Mở thư mục dự án trong Android Studio hoặc VS Code.
+
+Chạy lệnh flutter pub get trong Terminal để tải thư viện.
+
+Kết nối thiết bị và chạy lệnh flutter run.
 
