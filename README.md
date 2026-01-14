@@ -20,8 +20,6 @@ Framework: Flutter
 
 Ngôn ngữ: Dart
 
-Quản lý trạng thái: [Provider / Bloc / GetX]
-
 Cơ sở dữ liệu: mongodb và hive 
 
 Hướng dẫn chạy ứng dụng
@@ -32,4 +30,5 @@ Mở thư mục dự án trong Android Studio hoặc VS Code.
 Chạy lệnh flutter pub get trong Terminal để tải thư viện.
 
 Kết nối thiết bị và chạy lệnh flutter run.
+
 
